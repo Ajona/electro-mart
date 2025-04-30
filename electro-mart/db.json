@@ -1,0 +1,20 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "description": "High-quality wireless headphones with noise cancellation.",
+        "price": 99.99,
+        "image": "https://example.com/images/headphones.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Smartphone",
+        "description": "Latest model smartphone with advanced features.",
+        "price": 699.99,
+        "image": "https://example.com/images/smartphone.jpg"
+      }
+    ]
+  }
+  
+  
