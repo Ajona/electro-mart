@@ -1,20 +1,109 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "Wireless Headphones",
-        "description": "High-quality wireless headphones with noise cancellation.",
-        "price": 99.99,
-        "image": "https://example.com/images/headphones.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Smartphone",
-        "description": "Latest model smartphone with advanced features.",
-        "price": 699.99,
-        "image": "https://example.com/images/smartphone.jpg"
-      }
-    ]
-  }
-  
-  
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "price": 99.99,
+      "image": "https://png.pngtree.com/png-clipart/20250104/original/pngtree-wireless-headphones-png-image_18718651.png"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "description": "Latest model smartphone with advanced features.",
+      "price": 699.99,
+      "image": "https://www.pngplay.com/wp-content/uploads/12/Smartphone-PNG-Free-File-Download.png"
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with rich bass and long battery life.",
+      "price": 49.99,
+      "image": "https://atlas-content-cdn.pixelsquid.com/stock-images/bluetooth-speaker-Va4BJK9-600.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Laptop",
+      "description": "Lightweight laptop with powerful performance and long battery life.",
+      "price": 999.99,
+      "image": "https://pngimg.com/d/laptop_PNG101816.png"
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch",
+      "description": "Water-resistant smartwatch with health and fitness tracking.",
+      "price": 199.99,
+      "image": "https://www.citypng.com/public/uploads/preview/hd-blue-apple-smart-watch-series-6-png-704081694622170ogfulucxw5.png"
+    },
+    {
+      "id": 6,
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with fast scrolling and precision tracking.",
+      "price": 29.99,
+      "image": "https://img.favpng.com/15/11/0/computer-mouse-logitech-m235-optical-mouse-wireless-png-favpng-jfuWxgpcX5Prr5ysrddsMEj5h.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Gaming Keyboard",
+      "description": "Mechanical RGB gaming keyboard with programmable keys.",
+      "price": 89.99,
+      "image": "https://img.favpng.com/20/6/9/computer-keyboard-republic-of-gamers-gaming-keypad-backlight-numeric-keypads-png-favpng-PrDSgiRY7nuTaVLF6T7340dhc.jpg"
+    },
+    {
+      "id": 8,
+      "name": "External Hard Drive",
+      "description": "2TB external hard drive with fast USB 3.0 transfer speed.",
+      "price": 79.99,
+      "image": "https://atlas-content-cdn.pixelsquid.com/stock-images/external-hard-drive-don3z0F-600.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Webcam",
+      "description": "Full HD 1080p webcam with built-in microphone and autofocus.",
+      "price": 59.99,
+      "image": "https://pngimg.com/d/web_camera_PNG101403.png"
+    },
+    {
+      "id": 10,
+      "name": "Tablet",
+      "description": "10-inch tablet with high-resolution display and stylus support.",
+      "price": 299.99,
+      "image": "https://www.apple.com/newsroom/images/product/ipad/standard/apple_ipados14_widgets_062220_big.jpg.large.jpg"
+    },
+    {
+      "id": 11,
+      "name": "LED Monitor",
+      "description": "27-inch Full HD LED monitor with slim bezel and HDMI input.",
+      "price": 179.99,
+      "image": "https://cdn.thewirecutter.com/wp-content/media/2023/07/4kmonitors-2048px-9794.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Noise Cancelling Earbuds",
+      "description": "Compact earbuds with active noise cancellation and long battery life.",
+      "price": 129.99,
+      "image": "https://vivahtech.co.ke/wp-content/uploads/2024/10/UGREEN-HiTune-X6-Earbuds-4-jpg.webp"
+    },
+    {
+      "id": 13,
+      "name": "Action Camera",
+      "description": "Waterproof 4K action camera with wide-angle lens.",
+      "price": 149.99,
+      "image": "https://grandhub.co.ke/wp-content/uploads/2023/07/GoPro-Hero-10-Action-Camera-at-GrandHub-Technologies.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Charging Dock",
+      "description": "Multi-device charging dock for phones, smartwatches, and earbuds.",
+      "price": 39.99,
+      "image": "https://grovemade.imgix.net/https%3A%2F%2Fgrovemade.com%2Fshop-static%2Fshop%2Fvariant%2Fwalnut-magsafe-stand-galAHR-A3.jpg%3F_v%3D1620162209.6652558?auto=format&ixlib=python-1.1.2&w=1000&s=708028cc1207613c8ca363f9c6879e52"
+    },
+    {
+      "id": 15,
+      "name": "VR Headset",
+      "description": "Immersive VR headset compatible with PC and mobile.",
+      "price": 249.99,
+      "image": "https://discovereyecare.com/wp-content/uploads/2024/01/Is-Virtual-Reality-VR-Bad-for-Your-Eyes-Hero-1.jpg"
+    }
+  ]
+}
